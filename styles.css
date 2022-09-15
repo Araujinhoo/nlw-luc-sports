@@ -99,6 +99,7 @@ section ul li:hover {
 
 header div {
     animation: fromTop .7s 1s backwards;
+    
 }
 
 main section {
